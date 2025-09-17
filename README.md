@@ -58,15 +58,9 @@ The insights derived are crucial for **strategic decision-making in content stra
 
 ---
 
-## 🚀 How to Use  
-1. Open the `.pbix` file in Microsoft Power BI Desktop.  
-2. Explore the interactive dashboard using filters and slicers.  
-3. Gain insights into trends, revenue, and engagement metrics to inform strategic decisions.  
 
 ---
 
-## 📂 Project Files  
-- `Online Course Analysis.pbix` – Power BI Dashboard file  
 
 ---
 
