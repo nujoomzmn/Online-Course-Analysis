@@ -60,6 +60,9 @@ The insights derived are crucial for **strategic decision-making in content stra
 
 
 ---
+## 🖥️ Dashboard Preview  
+
+![Online Course Analytics Dashboard](https://github.com/nujoomzmn/Online-Course-Analysis/blob/main/Screenshot%202025-09-17%20100356.png)
 
 
 ---
