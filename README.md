@@ -1,4 +1,4 @@
-# 📊 Online Course Analytics Dashboard
+# 📊 Digital Course Revenue & Subscriber Analytics
 
 ## Overview  
 This project features an interactive **Power BI Dashboard** designed to analyze the performance and trends of a large online course platform. The dashboard provides a comprehensive, data-driven view of key business metrics, including **revenue generation, subscriber growth, audience engagement, and content distribution** across various dimensions like time, course level, and pricing models.  
